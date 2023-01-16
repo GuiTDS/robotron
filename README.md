@@ -1,1 +1,5 @@
-# robotron-2000
+# Robotron-2000
+
+O projeto focou principalmente na utilização do JavaScript para manipulação da DOM e de seus elementos conforme a interação do usuário.
+
+Tecnologias utilizadas: HTML, CSS e JavaScript.
